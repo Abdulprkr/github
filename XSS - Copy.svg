@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
   <rect x="0" y="0" width="200" height="50" fill="#007bff" rx="5" />
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" fill="#fff" font-size="20">Login</text>
-  <a href="https://google.com" target="_blank">
+  <a href="https://google.com">
     <rect x="0" y="0" width="200" height="50" fill="transparent" />
   </a>
 </svg>
