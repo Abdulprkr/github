@@ -1,0 +1,8 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="50" fill="#f7bb31" stroke="#f5a623" stroke-width="5" />
+  <foreignObject x="30" y="30" width="140" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <button onclick="window.location.href='http://www.google.com'">Click here to redirect</button>
+    </div>
+  </foreignObject>
+</svg>
